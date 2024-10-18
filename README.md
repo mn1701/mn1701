@@ -10,7 +10,7 @@ I'm an aspiring software engineer currently studying Computer Science at UC Davi
 - **Web Apps & Games:** I enjoy developing web apps and doing front end development, as well as smaller game projects with Godot engine!
 - 
 ### 🛠 Tech Stack
-- **Languages:** C++, Java, Python, JavaScript, Swift, Go, HTML, CSS, SQL, GDScript
+- **Languages:** Proficient: C++, Java, Swift | Intermediate: Python, JavaScript, Go, HTML, CSS, SQL, GDScript
 - **Frameworks & Tools:** Node.js, Express, UIKit, CocoaPods, Firebase, TensorFlow, Git, and more!
 - **Platforms:** I work with iOS, web, and cloud-based systems.
 
