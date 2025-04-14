@@ -1,6 +1,6 @@
 # Hi, I'm Minh Nguyen 👋
 
-I'm an aspiring software engineer currently studying Computer Science at UC Davis (graduating in 2025). I’m passionate about building creative and scalable software solutions that make an impact across web and mobile platforms. From machine learning models predicting wildfires to retro-themed arcade websites, I love bringing ideas to life through code.
+I'm a Junior software engineer currently studying Computer Science at UC Davis (graduating in 2025). I’m passionate about building creative and scalable software solutions that make an impact across web and mobile platforms. From machine learning models predicting wildfires to retro-themed arcade websites, I love bringing ideas to life through code.
 
 ### 🌟 What I Do
 - **Full-Stack Development:** I work across both frontend and backend, developing user-friendly, responsive apps and websites. Currently, I’m working on a social media app for pet owners at Life of Kai, where I’m using Swift, UIKit, and Firebase to build features like pet profiles, animal sightings via Google Maps, and private messaging.
